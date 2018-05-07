@@ -4,8 +4,7 @@ APPETIZERS DIPS, DRESSINGS AND SPREADS
 # TOMATO CUP+
 a:Emma Jean Maughan
 
-* 
-[1-9]/?[1-9]?\s?C butter
+* 1/4 C butter
 * 1/2 t garlic salt
 * 36 oz tomato juice
 * 1 T chopped parsley
