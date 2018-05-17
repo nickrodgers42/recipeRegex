@@ -3086,7 +3086,7 @@ a: Leda Peterson
 > 
 > Put through food chopper; 2 C seeded dates, 1 C dried figs, 3/4 C raisins. Add 1/3 C
 > candied cherries cut up, 1/3 C candied pineapple shredded, 1/2 C chopped pecans or
-> walnuts, 2 T (or more) orange juice, and 118 t salt. Work into a solid mass and then press
+> walnuts, 2 T (or more) orange juice, and 1/8 t salt. Work into a solid mass and then press
 > into a wax paper lined pan. Refrigerate for at least 24 hours before slicing.
 
 
@@ -3820,10 +3820,10 @@ COOKIES
 
 > Mix sifted dry ingredients with creamed butter, lemon rind and sugar, blending well. Beat
 > `in eggs and cream. Gradually blend in dry ingredients; beat well. Chill until firm enough
-> to roll. Roll 118-inch thick on floured board. Cut 3/2 inch cookies; sprinkle with sugar.
+> to roll. Roll 1/8-inch thick on floured board. Cut 3/2 inch cookies; sprinkle with sugar.
 > Bake on ungreased baking sheet at 400 degrees for 10 minutes. Makes 3 dozen. Dough
 > can be made into a roll, wrapped in wax paper and refrigerated until well set, then sliced
-> off in 118-inch slioes. Dip in sugar or a mixture of sugar and cinnamon and bake.
+> off in 1/8-inch slioes. Dip in sugar or a mixture of sugar and cinnamon and bake.
 
 
 # STIR AND DROP SUGAR COOKIES+
@@ -3878,7 +3878,7 @@ a: Tracey Baugh Wright
 > Sift together dry ingredients.
 > Heat: 1/2 C butter, 1/2 C molasses in large saucepan over low heat until butter melts. Add:
 > dry ingredients and 2 T hot tap water. Stir well. Chill 1 to 2 hours. Knead or work chilled
-> dough into a ball on lightly floured board. Roll out to 118 inch thickness; cut into shapes
+> dough into a ball on lightly floured board. Roll out to 1/8 inch thickness; cut into shapes
 > desired. Bake at 400 degrees 8 to 10 minutes. Makes 2/2 doz 2—inch cookies or 1 doz 6-
 > inch men.
 
@@ -4840,7 +4840,7 @@ a: Ruth Anderson
 > 8 x 8 inch pan. Bake for 12 to 15 minutes at 350 degrees, or until lightly browned.
 > 
 > FILLING: Beat 1 egg until thick and lemon colored, add 3/4 C brown sugar and 1/4 t vanilla.
-> Combine 1 1/4 T flour, A 1 salt and 118 t baking powder. Sift over 1/2 C chopped nuts and
+> Combine 1 1/4 T flour, A 1 salt and 1/8 t baking powder. Sift over 1/2 C chopped nuts and
 > 3/4 C coconut. Combine with egg mixture. Pour over baked crust and bake at 325
 > degrees for 15 to 25 minutes or until crusty on top.
 > 
@@ -7016,7 +7016,7 @@ a: Prakong Lynn Baugh
 * 3 cloves garlic, minced
 
 > Trim any fat from the meat and cut against the grain into ribbon strips, about 4 inches
-> long, 1/2 inch wide and 118 inch thick. Combine ingredients and mix with meat. Allow to
+> long, 1/2 inch wide and 1/8 inch thick. Combine ingredients and mix with meat. Allow to
 > marinate at least two hours. Thread meat on skewers leaving 1 inch of the skewer un-
 > covered at each end. Pour remaining marinade over meat. Refrigerate until ready to
 > cook. Brown each skewer over charcoal or under broiler in oven. Rotate skewers often.
@@ -8583,419 +8583,454 @@ a: Elizabeth Thorpe
 
 # CHICKEN AND RICE
 
-1 can beat broth, add water to make 3 C 1 C quick rice (Uncle Ben's)
+* 1 can beat broth, add water to make 3 C 
+* 1 C quick rice (Uncle Ben's)
+* A square butter 
+* 1/2 t salt
+* 1/4 t oregano 
+* 1 C celery, sliced
+* 1 can cream of celery soup 
+* 1 small can mushrooms
+* 1 medium chicken, cut up 
+* 1/2 pkg slivered almonds
+* 1/4 t curry powder
+
+> Put butler, rice, liquid and seasonings in heavy skillet. Bring to a boil. Place rice mixture
+> in casserole and bake 45 minutes at 300 degrees. Remove from oven. In another
+> casserole put a layer of rice mixture, half of the celery, half of the mushrooms and half of
+> the nuts. Cover with a layer of chicken. Repeat procedure, ending with a layer of rice.
+> Dilute cream of celery soup by 1/2. Add salt, pepper and paprika to oomflake topping.
+> Bake 30 minutes at 300 degrees until heated through. Celery and nuts should be slightly
+> crisp.
+
+
+# BRAN PARMESAN CHICKEN
+
+* 1 1/2 C wheat bran flakes cereal (I used Wheaties) crushed to make about 3/4 C
+* 1 egg, beaten 
+* 1/4 C milk
+* 1/8 t salt 
+* 1/8 t sage
+* 1 T butter 
+* 1/4 C flour
+* 3 T grated Parmesan cheese 
+* 5 chicken pieces, washed and patted dry
+* pepper
+
+> In shallow pan or dish mix egg and milk; add flour, seasonings and cheese, stirring until
+> smooth. Dip chicken pieces in egg mixture, coat with cereal and place in single layer,
+> skin side up in greased or foil-lined pan. Drizzle with butter. Bake in oven at 350 degrees
+> for about 45 minutes. Uncover last 15 minutes. 2 to 3 servings. Pre-boiling chicken cuts
+> down baking time. Double batter covers 14 pieces very well.
+
+
+# OVEN FRIED CHICKEN+
+
+* 1 C flour 
+* 2 t salt
+* 1 t paprika 
+* 1 t baking powder
+* 1/4 t pepper
+
+> Dip chicken pieces in 1 beaten egg and 1/2 C condensed milk. Then roll in the mixture of the ingredients
+> In greased cookie sheet or shallow pan, melt 3/4 stick margarine. Place chicken pieces
+> in pan. Bake 1/2 hour at 370 degrees. Turn and bake A hour more. It's very close to real
+> fried chicken.
+
+
+# SOUTHERN FRIED CHICKEN
+
+* 4 to 5 lb chicken, cut up 
+* 3/4 C light cream or evaporated milk
+* 1/2 t baking powder 1/4 t pepper
+* 3/4 C flour 
+* 3/4 t salt
+* 1/2 t paprika 
+* 3/4 C shortening or oil
+
+> Combine dry ingredients. Dip chicken in cream then in flour mixture. F ry in pre-heated
+> pan with oil at 400 degrees. Brown chicken, then cover and finish cooking at 350
+> degrees, about 45 minutes in the oven.
+
+
+# FRIED CHICKEN
+a: Prakong Baugh
+
+* 2 3 lb chickens cut up
+* 2 1/2 T salt (RUB)
+* 2 T sugar(RUB)
+* 1 t pepper (RUB)
+* 1/2 clove garlic minced or 1/8 t garlic powder (RUB)
+* 2 beaten eggs (BATTER) 
+* 1 1/4 C water  (BATTER)
+* 2 C flour  (BATTER)
+* 1 1/4 t black pepper (BATTER)
+* 1 t baking powder  (BATTER)
+* 1 1/2 t sugar (BATTER)
+* 1 t salt (BATTER)
+
+> Rub well with a mixture of the ingredients for the rub
+> Cover and refrigerate overnight. When ready to use, completely coat individual pieces
+> with the mixture fo the ingredients for the batter
+> Deep fry in medium hot oil until done and well browned.
+
+
+# BARBECUED SPARE RIBS OR CHICKEN
+a: Prakong Baugh
+
+* 1 T sugar 
+* 1 T salt
+* 1/4 T black pepper 
+* Ribs or chicken pieces
+
+> Mix and coat all pieces and then steam‘for 30 minutes. Let cool; cover and refrigerate 24
+> hours. Then coat all pieces with THAI BARBEQUE SAUCE and bake 30 to 40 minutes
+> in 350 degree oven or until done and browned. Serve hot.
+
+
+# THAI BARBEQUE SAUCE
+a: Prakong Baugh
+
+* 1 large onion, chopped and browned in butter 
+* 1 T prepared mustard
+* 1 8 oz can tomato sauce, diluted with 1/2 can water 
+* 1 1/2 T brown sugar
+* 2 T Worcestershire 
+* 1 T vinegar
+* 1 T lime juice
+
+> Mix together and simmer 20 minutes.
+
+
+# KANOM JEAP
+a: Achara Anukularmphai
+
+* 1 t vinegar 
+* 1 C fresh ground pork
+* 3 mushrooms, finely chopped 
+* 1/4 t MSG
+* 1 green onion finely chopped 
+* 1 T soy sauce
+* 2 t sugar 
+* 1/4 t pepper
+* 2 T water 
+* 1 T chopped parsley
+* 1 T cornstarch 
+* 1/4 t season all
+* 1 egg white 
+* 1 t cooking oil
+* 20 to 25 wanton Skins 
+* salt to taste
+
+> Mix all ingredients except wanton skins. Put about 1 rounded T of the mixture on each
+> wanton skin and wrap well. Steam about 20 minutes. Grease steaming plate with
+> vegetable oil. Fry fresh chopped garlic in vegetable oil and sprinkle over each cooked
+> wanton. Dip or pour Worcestershire sauce over each Kanom Jeap as it is eaten.
+
+
+# STUFFED PORK CHQPS
+
+* 6 pork chops
+* 2 T butter or margarine, melted 
+* 2 T chopped onion
+* 1/4 t sage 
+* 1/4 t crushed basil leaves
+* 1 T parsley flakes salt—pepper
+
+> Cut along bone about 1/2 way through, then toward outside to make a pocket in  pork
+> chops 1 inch thick or two thin chops may be held together with toothpicks.
+> Saute until onion is golden. Toss with 1 1/2 C small dry bread cubes. Stuff mixture into
+> pork chop pockets. Brown in a small amount of fat, then place in a 13 x 9 x 2 inch
+> baking pan or casserole. Sprinkle with 1/4 C onion soup mix. Pour 1/2 C water over chops,
+> cover and bake at 325 degrees about 1 hour or until tender. Do not over—bake, or it will
+> be dry. Makes 6 servings.
+
+
+# HAMBURGER CASSEROLE FOR CROCKPOT
+
+* 2 large potatoes, sliced 
+* 3 medium carrots, sliced
+* 1 #2 can peas, drained 
+* 3 medium onions, sliced
+* 1 1/2 lbs ground beef, browned 
+* 2 stalks celery, sliced
+* 1 10 oz can tomato soup 
+* 1 can water
+
+> Place layers in the crockpot and season each layer of vegetables with salt and pepper.
+> Put the browned meat on top of the oelery. Mix the soup with the water and pour into the
+> pot. Cover and set at low for 6 to 8 hours or high for 2 to 4 hours, stirring occasionally.
+> Ingredients may be increased by half for the 4 1/2 quart model crockpot.
+
+
+# TEMPURA
+
+* 1 C flow 
+* 1 beaten egg
+* 1 1/2 C water
+* 1/2 C cornstarch
+* 1 t baking powder 
+* dash salt
+* 1/4 t Accent(MSG)
+* at least 1 inch oil in frying pan
+
+> Mix in order and stir lightly. Almost any type of seafood can be dipped in this batter deep
+> and fried in 375 degree oil. Vegetables may also be cooked in this manner. Cut
+> crosswise: eggplant, carrots, green beans, mushrooms, water cress, green onions, dry
+> onions, sweet potatoes, asparagus, bell peppers, and zucchini. Fry until lightly browned.
+> Try to cut into the same size pieces so they will cook evenly.
+
+
+# RICE PILAFF
+a: Janice Nielsen
+
+* 1 C long grain rice 
+* 1 stick butter
+* 3 medium onions, chopped 
+* 1 can sliced mushrooms
+* 2 cans beef consomme
+
+> Brown rice and onions in butter, slowly and lightly. Add beef broth and mushrooms. Salt
+> to taste. Cover and bake in 1 1/2 quart casserole until liquid is absorbed, about 1 hour at
+> 350 degrees. Serves 8 to 10.
+
+
+# KRAUT ROUND REUBENS
+
+* 2 C well drained sauerkraut 
+* 1/2 C Russian dressing
+* 1 t grated onion 
+* 8 slices round, white bread
+* 1 5 oz jar sharp cheese 
+* 2 T-soft butter or margarine
+* 1/2 lb thinly sliced, cooked corned beef 
+* 1/4 t dill seed
+* 1/4 t seasoned salt 
+* 1/16 t garlic powder
+
+> Toss kraut with dressing. Beat cheese spread with 2 T butter, onion, dill and seasonings
+> until well blended. Spread about 1 1/2 T on one side of each bread slice.
+> Cover four slices of bread with corned beef and then the kraut mixture. Top with
+> remaining bread slices, cheese side down. Brush outside surfaces of the sandwiches
+> (top and bottom) generously with melted butter. Grill both sides until sandwiches are
+> toasted and thoroughly heated. Serves 4.
+
+
+# HOMEMADE NOODLES+
+
+> Add 1 t salt to one unbeaten egg. Gradually stir in flour with a fork until too stiff to mix.
+> Then continue to knead, adding flour until it is no longer sticky, and very stiff. On a well
+> floured board, roll out as thin as possible, adding flour as needed. Form into a roll
+> starting from the longest side. With a sharp knife slice off in alternating diagonal thin
+> slices. Break up, and add more flour to keep noodles from sticking together. (Some
+> recipes add a little milk to' the egg, before adding flour.)These may be added as they are
+> made to boiling soup, or may be dried thoroughly, and stored in plastic bags or tight
+> containers.
+> This is one of the few recipes I learned from my mother, as I watched her, fascinated, as
+> she deftly diagonally sliced the dough to make the noodles short. Her chicken soup with
+> noodles was a great favorite with our family.
+
+
+# DEVILED EGGS+
+
+* 6 hard cooked eggs, halved lengthwise 
+* 1/4 C mayonnaise with 1/4 t salt
+* 1 T finely chopped celery (optional) 
+* 2 t prepared mustard
+* 1 T minced onion 
+* 1 T minced stuffed or ripe olives
+* dash pepper 
+* 1 t salt
+
+> Remove egg yolks. Mash and combine with remaining ingredients. Refill egg whites,
+> using a pastry tube if desired. Chill. Notch egg whites, trim tops with pimento or paprika.
+> (Substitute cmmbled bacon, chopped pimento, chives, sweet pickle, or parsley, for
+> variation.)
 
-A square butter 1/2 t salt
 
-1/4 t oregano 1 C celery, sliced
+# PICKLED EGGS
 
-1 can cream of celery soup 1 small can mushrooms
-1 medium chicken, cut up A pkg slivered almonds
-1/4 t curry powder
+> In 1975, Fred became interested in a Continuing Education Class offered at U.S.A.C.,
+> and enrolled in a food preservation and preparation class during the winter quarter,
+> taught by Dr. V.Y. Mendenhall. This turned out to be one of the highlights of his life.
+> Training was given on various methods and principles of preservation: freezing, unning,
+> drying and curing of meats, vegetables and fruits. This included the making of beef
+> jerky, corned beef. pork sausage, curing of hams and bacon, and even pickling eggs.
+> He enjoyed it all. Some of the meat recipes will be included in the Canning and
+> Preserving section of this book. Here are some PICKLED SSG RECIPES:
 
-Put butler, rice, liquid and seasonings in heavy skillet. Bring to a boil. Place rice mixture
-in casserole and bake 45 minutes at 300 degrees. Remove from oven. In another
-casserole put a layer of rice mixture, half of the celery, half of the mushrooms and half of
-the nuts. Cover with a layer of chicken. Repeat procedure, ending with a layer of rice.
-Dilute cream of celery soup by 1/2. Add salt, pepper and paprika to oomflake topping.
-Bake 30 minutes at 300 degrees until heated through. Celery and nuts should be slightly
-crisp.
 
-BRAN PARMESAN CHICKEN
+# DILLED EGGS+
 
-1% C wheat bran flakes cereal (I used Wheaties) crushed to make about 3/4 C
+* 1 1/2 C white vinegar 
+* 1 C water
+* 3/4 t dill 
+* 1/4 t white pepper
+* 3 tsp salt 
+* 1/4 t mustard seed
+* 1/2 t onion juice 
+* 1/2 t minced gariic
 
-1 egg, beaten 1/4 C milk
+> Bring the mixture to near boiling and simmer for 5 minutes. POUR over peeled,
+> hard boiled eggs in a jar, seal and refrigerate to season.
 
-1/8 1 salt 118 t sage
 
-1 T butter 1/4 C flour
+# SWEET AND SOUR EGGS
 
-3 T grated Parmesan cheese 5 chicken pieces, washed and patted dry
-pepper
+* 1 1/2 C apple cider 
+* 1/2 C white vinegar
+* 1 pkg (14 oz) red hots 
+* 1 T pickling spice
+* 1 1 garlic salt 
+* 2 t salt
 
-In shallow pan or dish mix egg and milk; add flour, seasonings and cheese, stirring until
-smooth. Dip chicken pieces in egg mixture, coat with cereal and place in single layer,
-skin side up in greased or foil-lined pan. Drizzle with butter. Bake in oven at 350 degrees
-for about 45 minutes. Uncover last 15 minutes. 2 to 3 servings. Pre-boiling chicken cuts
-down baking time. Double batter covers 14 pieces very well.
+> Bring the mixture to near boiling and simmer for 5 minutes. POUR over peeled,
+> hard boiled eggs in a jar, seal and refrigerate to season.
 
 
+# KANSAS SPICY EGGS
 
-OVEN FRIED CHICKEN+
+* 1/2 C apple cider 
+* 1 C white vinegar
+* 2 t salt 
+* 1 t pickling spice
+* 1 clove garlic, peeled 
+* 1/2 onion, sliced
+* 2 t mustard seed
 
-Dip chicken pieces in 1 beaten egg and 1/2 C condensed milk. Then roll in the following
-mixture:
+> Bring the mixture to near boiling and simmer for 5 minutes. POUR over peeled,
+> hard boiled eggs in a jar, seal and refrigerate to season.
 
-1 C flour 2 t salt
-1 tpaprika 1 tbaking powder
-1/4 t pepper.
 
-In greased cookie sheet or shallow pan, melt 3/4 stick margarine. Place chicken pieces
+# PICKLED EGGS
+a: Cherrill Nielsen
 
-in pan. Bake 1/2 hour at 370 degrees. Turn and bake A hour more. It's very close to real
-fried chicken.
+* 1 t salt 
+* 1 t mixed spices
+* 2 T sugar 
+* 2 C vinegar
+* 12 to 16 hard boiled eggs peeled
 
-SOUTHERN FRIED CHICKEN
+> Add sugar, spices and salt to vinegar (dilute 1/3 with water if strong). Simmer about 8
+> minutes. Strain and pour over eggs arranged in a quart jar. Seal and refrigerate 2 days
+> before eating.
 
-4 to 5 lb chicken, cut up 3/4 C light cream or evaporated milk
-1/2 t baking powder 1/4 t pepper
 
-3/4 C flour 3/4 t salt
+# PICKLED EGGS
 
-At paprika 3/4 C shortening or oil
+* 3/4 C drained juice from canned beets 
+* 3/4 C vinegar
+* 1/4 C brown sugar 
+* 1/2 t salt
+* 12 whole cloves (or less) 
+* 6 hard boiled eggs, peeled
 
-Combine dry ingredients. Dip chicken in cream then in flour mixture. F ry in pre-heated
-pan with oil at 400 degrees. Brown chicken, then cover and finish cooking at 350
-degrees, about 45 minutes in the oven.
+> Boil liquids and seasonings. Cool. Pour over eggs in a quart jar. Refrigerate. For
+> optimum eating quality, use within 2 days after preparation.
 
-FRIED CHICKEN
 
-Prakong Baugh
-2 3 lb chickens cut up.. Rub well with a mixture of
-2A T salt 2 T sugar
-1 t pepper 1/2 clove garlic minced or 1/8 t garlic powder
+# PICKLED EGGS
+a: Richard Baugh
 
-Cover and refrigerate overnight. When ready to use, completely coat individual pieces
-with the following mixture:
+> Adding hard cooked eggs to the heated juice of canned, pickled beets, or the vinegar
+> from dill or sweet pickles, produces a good cure and delicious pickled eggs. Let stand in
+> closed container in refrigerator for a few days to absorb flavors. Will keep a long time
+> refrigerated.
 
-2 beaten eggs 1% C water
 
-2 C flour 1At black pepper
-1 t baking powder 1/: 1 sugar
+# PICKLED RED ONIONS
 
-1 tsalt
+> 2 large red onions, sliced (about 2 C) Place in a small bowl. Add 1/2 C water and enough
+> vinegar to cover. Sprinkle on 1 T sugar; cover and chill 3 to 4 hours. Drain. Mix onions
+> with 1/4 C mayonnaise, 1 t celery seed and salt to taste. Serve as an accompaniment to
+> beef. If too sour add a little more sugar to taste.
 
-Deep fry in medium hot oil until done and well browned.
 
+# CUCUMBERS AND ONIONS+
 
+> Peel and slice about 2 C cucumbers and 1 C red or white onions. Mix together and
+> sprinkle with a little salt. In a measuring cup put 1/3 C sugar, fill to A with white vinegar,
+> and to 3/4 full with water. Pour over cucumbers and onions. Let stand a few minutes
+> before serving.
+> This has been a Baugh family favorite long before I came into the family.
 
 
-BARBECUED SPARE RIBS OR CHICKEN
+# MINT SAUCE+
 
-Prakong Baugh
-1 T sugar 1 T salt
+> Chop fresh mint leaves very fine. Using the same solution as for cucumbers and onions,
+> put about 1/3 part chopped mint to 2/3 vinegar solution. Let stand at least an hour
+> before serving. Very good on roast beef or lamb.
 
-A T black pepper Ribs or chicken pieces
 
-Mix and coat all pieces and then steam‘for 30 minutes. Let cool; cover and refrigerate 24
-hours. Then coat all pieces with THAI BARBEQUE SAUCE and bake 30 to 40 minutes
-in 350 degree oven or until done and browned. Serve hot.
+# HORSERADISH SAUCE+
 
-THAI BARBEQUE SAUCE
-
-Prakong Baugh
-1 large onion, chopped and browned in butter 1 T prepared mustard
-1 8 oz can tomato sauce, diluted with A can water 1% T brown sugar
-2 T Worcestershire 1 T vinegar
-1 T lime juice
-
-Mix together and simmer 20 minutes.
-
-
-
-
-KANOM JEAP
-
-Achara Anuku/armphai
-1 tvinegar 1 C fresh ground pork
-3 mushrooms, finely chopped At MSG
-1 green onion finely chopped 1 T soy sauce
-2 t sugar 1/4 t pepper
-2 T water 1 T chopped parsley
-1 T cornstarch 1/4 t season all
-1 egg white 1 toooking oil
-20 to 25 wanton Skins salt to taste
-
-Mix all ingredients except wanton skins. Put about 1 rounded T of the mixture on each
-wanton skin and wrap well. Steam about 20 minutes. Grease steaming plate with
-vegetable oil. Fry fresh chopped garlic in vegetable oil and sprinkle over each cooked
-wanton. Dip or pour Worcestershire sauce over each Kanom Jeap as it is eaten.
-
-STuFFED EQRE CHQPS
-
-Cut along bone about A way through, then toward outside to make a pocket in 6 pork
-chops 1 inch thick or two thin chops may be held together with toothpicks.
-
-2 T butter or margarine, melted 2 T chopped onion
-1/4 t sage 1/4 t crushed basil leaves
-1 T parsley flakes salt—pepper
-
-Saute until onion is golden. Toss with 1/2 C small dry bread cubes. Stuff mixture into
-pork chop pockets. Brown in a small amount of fat, then place in a 13 x 9 x 2 inch
-baking pan or casserole. Sprinkle with 1/4 C onion soup mix. Pour 1/2 C water over chops,
-cover and bake at 325 degrees about 1 hour or until tender. Do not over—bake, or it will
-be dry. Makes 6 servings.
-
-HAMBURGER CASSEROLE FOR CROCKPOT
-
-2 large potatoes, sliced 3 medium carrots, sliced
-1 #2 can peas, drained 3 medium onions, sliced
-1A lbs ground beef, browned 2 stalks celery, sliced
-
-1 10 oz can tomato soup 1 can water
-
-Plaoe layers in the crockpot and season each layer of vegetables with salt and pepper.
-Put the browned meat on top of the oelery. Mix the soup with the water and pour into the
-pot. Cover and set at low for 6 to 8 hours or high for 210 4 hours, stirring occasionally.
-Ingredients may be increased by half for the 4A quart model crockpot.
-
-
-
-TEMPURA
-
-1 C flow 1 beaten egg
-
-1%: |\(Ivater d :12 Chcorlrtistarch
-
-1 a ing pow er as sa
-
-1/4 t Accent(MSG) at least 1 inch oil in frying pan
-
-Mix in order and stir lightly. Almost any type of seafood can be dipped in this batter deep
-and fried in 375 degree oil. Vegetables may also be cooked in this manner. Cut
-crosswise: eggplant, carrots, green beans, mushrooms, water cress, green onions, dry
-onions, sweet potatoes, asparagus, bell peppers, and zucchini. Fry until lightly browned.
-Try to cut into the same size pieces so they will cook evenly.
-
-RICE PILAFF
-Janice Nielsen
-1 C long grain rice 1 stick butter
-3 medium onions, chopped 2 cans beef consomme
-
-1 can sliced mushrooms
-Brown rice and onions in butter, slowly and lightly. Add beef broth and mushrooms. Salt
-
-to taste. Cover and bake in 1% quart casserole until liquid is absorbed, about 1 hour at
-350 degrees. Serves 8 to 10.
-
-KRAUT ROUND REUBENS
-
-2 C well drained sauerkraut 1/2 C Russian dressing
-
-1 t grated onion 8 slices round, white bread
-1 5 oz jar sharp cheese 2 T-soft butter or margarine
-A lb thinly sliced, cooked corned beef 1/4 t dill seed
-
-1/4 t seasoned salt 1116 t garlic powder
-
-Toss kraut with dressing. Beat cheese spread with 2 T butter, onion, dill and seasonings
-until well blended. Spread about 1% T on one side of each bread slice.
-
-Cover four slices of bread with corned beef and then the kraut mixture. Top with
-remaining bread slices, cheese side down. Brush outside surfaces of the sandwiches
-
-(top and bottom) generously with melted butter. Grill both sides until sandwiches are
-toasted and thoroughly heated. Serves 4.
-
-
-
-
-HOMEMADE NOODLES+
-
-Add 1 t salt to one unbeaten egg. Gradually stir in flour with a fork until too stiff to mix.
-Then continue to knead, adding flour until it is no longer sticky, and very stiff. On a well
-floured board, roll out as thin as possible, adding flour as needed. Form into a roll
-starting from the longest side. With a sharp knife slice off in alternating diagonal thin
-slices. Break up, and add more flour to keep noodles from sticking together. (Some
-recipes add a little milk to' the egg, before adding flour.)These may be added as they are
-made to boiling soup, or may be dried thoroughly, and stored in plastic bags or tight
-containers.
-
-This is one of the few recipes I learned from my mother, as I watched her, fascinated, as
-she deftly diagonally sliced the dough to make the noodles short. Her chicken soup with
-noodles was a great favorite with our family.
-
-DEVILED EGGS+
-
-6 hard cooked eggs, halved lengthwise 1/4 C mayonnaise with 1/4 t salt
-
-1 T finely chopped celery (optional) 2 t prepared mustard
-
-1 T minced onion 1 T minced stuffed or ripe olives
-dash pepper 1 t salt
-
-Remove egg yolks. Mash and combine with remaining ingredients. Refill egg whites,
-using a pastry tube if desired. Chill. Notch egg whites, trim tops with pimento or paprika.
-(Substitute cmmbled bacon, chopped pimento, chives, sweet pickle, or parsley, for
-variation.)
-
-TIPS FOR COOKING EGGS FOR SALADS ETC.
-
- 
-
-Plaoe eggs in saucepan and cover with cold water (at least 1 inch above eggs).
-Bring to boiling, cover and turn off heat. Leave in water 15 to 20 minutes.
-
-Cool eggs promptly in cold water to stop cooking and make shelling easier.
-
-For uniform slices, use an egg slioer or a wire cheese slicer. For wedges,
-
-use cheese slicer.
-
-Tl TING
-
-Make pretty holiday time salad gamishes by tinting shelled, hard-cooked eggs with
-summer—drink powder. Dissolve each envelope of the flavored drink poWder in 1 C
-water. Make enough to cover eggs. Put in peeled hard—cooked eggs; let stand till
-desired color. Dry tinted eggs on a rack.
-
-
-
-PICKLED EGGS
-
-In 1975, Fred became interested in a Continuing Education Class offered at U.S.A.C.,
-and enrolled in a food preservation and preparation class during the winter quarter,
-taught by Dr. V.Y. Mendenhall. This turned out to be one of the highlights of his life.
-Training was given on various methods and principles of preservation: freezing, unning,
-drying and curing of meats, vegetables and fruits. This included the making of beef
-jerky, corned beef. pork sausage, curing of hams and bacon, and even pickling eggs.
-He enjoyed it all. Some of the meat recipes will be included in the Canning and
-Preserving section of this book. Here are some PICKLED SSG RECIPES:
-
-DILLED EGGS+
-1 1/2 C white vinegar 1 C water
-3/4 t dill 1/4 t white pepper
-3 tsp salt At mustard seed
-1/2 t onion juice At minced gariic
-
-Bring the mixture to near boiling and simmer for 5 minutes. POUR over peeled,
-hard boiled eggs in a jar, seal and refrigerate to season.
-
-SWEET AND SOUR EGGS
-
-1 1/2 C apple cider 1/2 C white vinegar
-1 pkg (14 oz) red hots 1 T pickling spice
-1 1 garlic salt 2 t salt
-
-Proceed as in above recipe.
-
-KANSAS SPICY EGGS
-
-1/2 C apple cider 1 C white vinegar
-2 t salt 1 t pickling spice
-1 clove garlic, peeled A onion, sliced
-
-2 t mustard seed
-
-Proceed as in Dilled Eggs.
-
-
-434-
-
-PICKLED EGGS
-Chem‘l/ Nielsen
-
-1 t salt 1 t mixed spices
-2 T sugar 2 C vinegar
-12 to 16 hard boiled eggs peeled
-
-Add sugar, spices and salt to vinegar (dilute 1/3 with water if strong). Simmer about 8
-minutes. Strain and pour over eggs arranged in a quart jar. Seal and refrigerate 2 days
-before eating.
-
-PICKLED EGGS
-3/4 C drained juice from canned beets 3/4 C vinegar
-1/4 C brown sugar 1/2 1 salt
-12 whole cloves (or less) 6 hard boiled eggs, peeled
-
-Boil liquids and seasonings. Cool. Pour over eggs in a quart jar. Refrigerate. For
-optimum eating quality, use within 2 days after preparation.
-
-PICKLED EGGS
-Richard Baugh
-
-Adding hard cooked eggs to the heated juice of canned, pickled beets, or the vinegar
-from dill or sweet pickles, produces a good cure and delicious pickled eggs. Let stand in
-closed container in refrigerator for a few days to absorb flavors. Will keep a long time
-refrigerated.
-
-PICKLED RED ONIONS
-
-2 large red onions, sliced (about 2 C) Place in a small bowl. Add 1/2 C water and enough
-vinegar to cover. Sprinkle on 1 T sugar; cover and chill 3 to 4 hours. Drain. Mix onions
-with 1/4 C mayonnaise, 1 t celery seed and salt to taste. Serve as an accompaniment to
-beef. If too sour add a little more sugar to taste.
-
-
-—185—
-
-CUCUMBERS AND ONIONS+
-
-This has been a Baugh family favorite long before I came into the family.
-
-Peel and slice about 2 C cucumbers and 1 C red or white onions. Mix together and
-sprinkle with a little salt. In a measuring cup put 1/3 0 sugar, fill to A with white vinegar,
-and to 3/4 full with water. Pour over cucumbers and onions. Let stand a few minutes
-before serving.
-
-MINT SAUCE+
-
-Chop fresh mint leaves very fine. Using the same solution as for cucumbers and onions,
-put about 1/3 part chopped mint to 2/3 vinegar solution. Let stand at least an hour
-before serving. Very good on roast beef or lamb.
+> Use the same vinegar solution as for cucumbers and onions, to dilute fresh grated
+> horseradish. You may want to use a little less sugar. Keep tightly covered in refrigerator.
 
 HORSERADISH SAUCE+
 
-Use the same vinegar solution as for cucumbers and onions, to dilute fresh grated
-horseradish. You may want to use a little less sugar. Keep tightly covered in refrigerator.
+* 1/2 C heavy cream 
+* 1/4 C horseradish drained
 
-HORSERADISH SAUCE+
-1/2 C heavy cream 1/4 C horseradish drained
-
-Whip cream as stiff as possible. Fold in horseradish. Serve with ham, boiled beef or
-tongue. Makes about 1 cup.
-
-
+> Whip cream as stiff as possible. Fold in horseradish. Serve with ham, boiled beef or
+> tongue. Makes about 1 cup.
 
 
 FISH AND SEAFOOD
 
-BRATTEN'S BOSTON CLAM CHOWDER
+# BRATTEN'S BOSTON CLAM CHOWDER
+a: Ida Harris
 
-Ida Harris
-2 6A oz cans minced clams 3/4 C flour
-1 1/2 t salt 1 C onions, chopped
-3/4 C butter A 1 sugar
-2 C finely diced potatoes 1 quart milk or half and half
-dash pepper
+* 2 6 1/2 oz cans minced clams 
+* 3/4 C flour
+* 1 1/2 t salt 
+* 1 C onions, chopped
+* 3/4 C butter 
+* 1/2 t sugar
+* 2 C finely diced potatoes 
+* 1 quart milk or half and half
+* dash pepper
 
-Drain juice from clams and pour over vegetables in saucepan; add enough water to
-cover. Simmer, covered until tender, about 20 minutes. Make a white sauce of butter,
-flour and milk. Cook until smooth and thick. '
+> Drain juice from clams and pour over vegetables in saucepan; add enough water to
+> cover. Simmer, covered until tender, about 20 minutes. Make a white sauce of butter,
+> flour and milk. Cook until smooth and thick.
+> Add undrained vegetables and clams and heat through. Then season to taste. (Also add
+> 1 to 2 T vinegar to seasoning.) Serves 8. (Leftover chowder may be sealed in cooking
+> bag and frozen, then reheated in bag).
 
-Add undrained vegetables and clams and heat through. Then season to taste. (Also add
-1 to 2 T vinegar to seasoning.) Serves 8. (Leftover chowder may be sealed in cooking
-bag and frozen, then reheated in bag).
 
-CLAM CHOWDER+
+# CLAM CHOWDER+
 
-6 medium potatoes, peeled and cubed 2 T dried onions (1/2 C diced fresh)
-4 strips bacon, crisply fn'ed, crumbled 1 carrot, grated
+* 6 medium potatoes, peeled and cubed 
+* 2 T dried onions (1/2 C diced fresh)
+* 4 strips bacon, crisply fried, crumbled 
+* 1 carrot, grated
+* 1 can minced clams 
+* 1 C evaporated milk
+* pepper 
+* salt
 
-1 can minced clams 1 C evaporated milk
+> Cook potatoes and carrots in water to cover until tender. Remove about 1 C of potatoes
+> and blend till smooth; add again to soup. After frying bacon, drain off some of the fat
+> and then oook onion in same pan, until transparent. Add clams and evaporated milk and
+> heat, then add to soup. Heatjust to boiling. Garnish with bacon bits. Serve hot.
 
-pepper salt
 
-Cook potatoes and carrots in water to cover until tender. Remove about 1 C of potatoes
-and blend till smooth; add again to soup. After frying bacon, drain off some of the fat
-and then oook onion in same pan, until transparent. Add clams and evaporated milk and
-heat, then add to soup. Heatjust to boiling. Garnish with bacon bits. Serve hot.
+# OYSTERS IN BATTER+
+a: Fred’s favorite
 
-OYSTERS IN BATTER+
-Fred’s favorite
-1 quart oysters 2 eggs
-2/3 C milk 1 C sifted flour
+* 1 quart oysters 
+* 2 eggs
+* 2/3 C milk 
+* 1 C sifted flour
+* 1 t salt pepper
 
-1 tsalt pepper
+> Drain oysters thoroughly and blot between paper towels. Beat eggs, stir in milk and add
+> to flour and seasonings. Beat until smooth. Dip oysters in batter and drop in deep fat
+> heated to 365 degrees. Fry 3 to 5 minutes to desired brownness. Drain on absorbent
+> paper. Serve with tartar or chili sauce. This batter is very good for any fish deep fried,
+> or pan fried. Serves 5.
 
-Drain oysters thoroughly and blot between paper towels. Beat eggs, stir in milk and add
-to flour and seasonings. Beat until smooth. Dip oysters in batter and drop in deep fat
-heated to 365 degrees. Fry 3 to 5 minutes to desired brownness. Drain on absorbent
-paper. Serve with tartar or chili sauce. This batter is very good for any fish deep fried,
-or pan fried. Serves 5.
-
-437-
 
 IMPOSSIBLE SEAFOOD PIE++
 
@@ -9289,7 +9324,7 @@ HALIBUT CASSEROLE
 1 1/2 C milk
 
 1/2 C chopped green pepper
-118 t paprika
+1/8 t paprika
 
 1 C cooked noodles
 
@@ -9602,10 +9637,10 @@ for 2 8 inch pies
 
 1 egg ' 1/2 t salt
 
-118 t ginger 3/4 C sugar
+1/8 t ginger 3/4 C sugar
 
 1/4 t cinnamon 1 1/2 C strained pumpkin(more if you want)
-1 T flour 118 t allspice
+1 T flour 1/8 t allspice
 
 1 1/4 C scalded milk(homogenized milk need not be scalded)
 
@@ -9613,7 +9648,7 @@ for 2 9 inch Qies
 
 3 eggs 1/4 t allspice(scant)
 
-1/4 t ginger 1 118 C sugar
+1/4 t ginger 1 1/8 C sugar
 
 3/4 t salt 2 1/4 C pumpkin(more if you want)
 1 1/2 T flour 1/2 t cinnamon(scant)
@@ -10421,7 +10456,7 @@ DRESSING:
 
 1 T vinegar or lemon juice 1 t salt
 
-118 t pepper 2 t sugar
+1/8 t pepper 2 t sugar
 
 1/4 t paprika 1/2 t dry mustard
 
@@ -10723,7 +10758,7 @@ chopped chives or parsley. Yield: 2 quarts.
 CREAM OF POTATO SOUP+
 
 4 medium potatoes, cubed 1 medium onion, sliced
-1 tsalt 118 t pepper
+1 tsalt 1/8 t pepper
 
 2 T butter or bacon drippings 2 T flour
 
