@@ -2,7 +2,7 @@ APPETIZERS DIPS, DRESSINGS AND SPREADS
 
 
 # TOMATO CUP+
-a:Emma Jean Maughan
+a: Emma Jean Maughan
 
 * 1/4 C butter
 * 1/2 t garlic salt
@@ -12,7 +12,7 @@ a:Emma Jean Maughan
 * 5 t sugar
 * 2 stalks celery, blended
 * 1 bay leaf (optional)
-* 36 oz beef broth -
+* 36 oz beef broth
 
 > Cook onion in butter until tender; add other ingredients. Simmer for thirty minutes.
 > Makes about 6 pints. Serve hot.
@@ -342,7 +342,7 @@ a:Emma Jean Maughan
 
 
 # MICHELLE'S SALSA++
-a:Michelle Baugh
+a: Michelle Baugh
 
 * 4 quarts tomatoes
 * 1 T salt
@@ -1255,7 +1255,7 @@ a: Ida Harris
 
 
 # IDA’S ROLLS
-a:Ida Harris
+a: Ida Harris
 
 * 2 pkg dry yeast 
 * 1/4 C sugar
@@ -8577,7 +8577,7 @@ a: Elizabeth Thorpe
 
 > Stew chicken until tender. Remove meat from bones and cut into small pieces. Mix
 > remaining ingredients and put into greased baking dish. T op with slivered almonds.
-> Bake at 300 degrees for about 1A hours.
+> Bake at 300 degrees for about 1/2 hours.
 > Myrtle Jacques was over-all winner of the 6th ward fair with this recipe.
 
 
@@ -11173,7 +11173,7 @@ a: Ariene Anderson
 
 > Cook onions and parsley in butter until tender but not brown. Add flour, salt, pepper and
 > lemon peel. Add sour cream and mix well. Stir in beans; heat and stir. Tum into 10 x 6 x
-> 1A inch baking dish. Top with grated cheese and the buttered bread crumbs. Broil. at
+> 1/2 inch baking dish. Top with grated cheese and the buttered bread crumbs. Broil. at
 > low heat until cheese melts and anmbs are brown. Serves 8. (Sweet cream or
 > evaporated milk may be substituted for the sour cream. Use 1/4 C less).
 
@@ -11526,7 +11526,7 @@ a: Ida Harris
 > Chili is better if used the second day.
 
 
-# lDAHO BUCKAROO BEANS
+# IDAHO BUCKAROO BEANS
 
 * 2 C pinto or red beans 
 * 6 C water
