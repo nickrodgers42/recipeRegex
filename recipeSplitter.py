@@ -9,29 +9,60 @@ def capString(s):
         returnStr += word + " "
     return returnStr[:-1]
 
-def checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, secondEdition):
+def checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, secondEdition, goodRecipes, newRecipes):
     print()
-    print(capString(sectionTitle))
-    print("Title: " + title)
-    print("Author: " + author)
-    print(ingredients)
-    print(directions)
-    print("Second Edition: " + repr(secondEdition))
-    print("Favorite: " + repr(favorite))
-    # print("Is this a good recipe?")
-    # resp = input()
-    # if resp == 'y' or resp == 'Y':
-    if len(ingredients) > 0 and len(directions) > 0:
-        sectionTitle = sectionTitle.translate(sectionTitle.maketrans('', '', string.punctuation))        
-        newTitle = title.translate(title.maketrans('', '', string.punctuation))
-        toFile = open("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', ''), 'w')
-        toFile.write('# ' + title + '\n')
-        toFile.write('a:' + author + '\n\n')
-        for ins in ingredients:
-            toFile.write("* " + ins + "\n")
-        toFile.write('\n')
-        for d in directions: 
-            toFile.write("> " + d + "\n")
+    if not title in goodRecipes:
+        print(capString(sectionTitle))
+        print("Title: " + title)
+        print("Author: " + author)
+        print("Ingredients: " + repr(ingredients))
+        print("Directions: " + repr(directions))
+        print("Second Edition: " + repr(secondEdition))
+        print("Favorite: " + repr(favorite))
+        print("Is this a good recipe?")
+        resp = input()
+
+        if resp == 'y' or resp == 'Y':
+            addRecipe = True
+            duplicateRecipe = False
+            if len(directions) > 0:
+                if title in newRecipes:
+                    print("Possible Duplicate: " + title)
+                    print("Add anyway?")
+                    resp = input()
+                    if resp == 'y' or resp == 'Y':
+                        duplicateRecipe = True
+                if addRecipe:
+                    sectionTitle = sectionTitle.translate(sectionTitle.maketrans('', '', string.punctuation))        
+                    newTitle = title.translate(title.maketrans('', '', string.punctuation))
+                    if not duplicateRecipe: 
+                        toFile = open("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', '') + ".txt", 'w')
+                    else:
+                        if os.path.exists("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', '') + ".txt"):
+                            num = 2
+                            while os.path.exists("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', '') + str(num) + ".txt"):
+                                num += 1
+                            toFile = open("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', '') + str(num) + ".txt", 'w')
+                        else:
+                            toFile = open("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', '') + ".txt", 'w')
+                            
+                    toFile.write('# ' + title + '\n')
+                    toFile.write('a:' + author + '\n')
+                    if secondEdition:
+                        toFile.write("@" + "\n\n")
+                    for ins in ingredients:
+                        toFile.write("* " + ins + "\n")
+                    toFile.write('\n')
+                    for d in directions: 
+                        toFile.write("> " + d + "\n")
+                    if favorite:
+                        toFile.write("+")
+                    print("Recipe Added")
+                    newRecipes.append(title)
+        print()
+    else:
+        goodRecipes.remove(title)
+        newRecipes.append(title)
 
 def makeSection(sectionTitle):
     print('Section Title: ' + sectionTitle)
@@ -41,6 +72,20 @@ def makeSection(sectionTitle):
         sectionTitle = sectionTitle.translate(sectionTitle.maketrans('', '', string.punctuation))
         if not os.path.exists('recipes/' + sectionTitle.replace(' ', '')):
             os.makedirs('recipes/' + sectionTitle.replace(' ', ''))
+    print()
+
+def loadGoodRecipes():
+    returnArr = []
+    if (os.path.exists('goodRecipes.txt')):
+        goodRecipeFile = open("goodRecipes.txt", 'r+')
+        for line in goodRecipeFile:
+            returnArr.append(line.strip())
+    return returnArr
+
+def updateGoodRecipes(goodRecipes):
+    toFile = open("goodRecipes.txt", 'w')
+    for recipe in goodRecipes:
+        toFile.write(recipe + "\n")
 
 if __name__ == "__main__":
     print('Hello, world')
@@ -59,9 +104,13 @@ if __name__ == "__main__":
     favorite = False
     secondEdition = False
 
+    goodRecipes = loadGoodRecipes()
+    newRecipes = []
+
     for currentLine in  book:
         if currentLine[0] == '#':
-            checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, secondEdition)
+            checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, secondEdition, goodRecipes, newRecipes)
+            updateGoodRecipes(newRecipes)
             title = ""
             author = ""
             ingredients = []
@@ -69,7 +118,8 @@ if __name__ == "__main__":
             secondEdition = False
             favorite = False
             title += capString(currentLine.strip()[2:])
-            if title[-2:] == '+':
+            print(title[-2:])
+            if title[-2:] == '++':
                 secondEdition = True
                 title = title[:-2]
             elif title[-1:] == '+':

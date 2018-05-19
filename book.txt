@@ -62,7 +62,7 @@ a: Emma Jean Maughan
 * 1/4 C catsup 
 * 2 6 1/2 oz cans shrimp
 * 2 t prepared horseradish
-* 1 tminced onion
+* 1 t minced onion
 * 1 t minced celery 
 * 1/2 to 1 t worcestershire sauce
 * torn lettuce
@@ -72,9 +72,10 @@ a: Emma Jean Maughan
 > Serves 10.
 
 
-#COCKTAIL MEATBALLS++
+# COCKTAIL MEATBALLS++
 
-* 1 lb very lean ground beef 1 tgrated lemon rind
+* 1 lb very lean ground beef 
+* 1 t grated lemon rind
 * 1 large egg, beaten 
 * 4 t lemon juice
 * 1/4 beef broth 
@@ -299,13 +300,13 @@ a: Emma Jean Maughan
 
 # FIVE ALARM SALSA++
 
-> 1 28 oz can whole tomatoes
-> 2 jalapeno peppers, seeded and chopped
-> 1/2 C onion, chopped
-> 2 cloves gartic, minced
-> 2 T fresh lime juice 
-> 1/4 C cilantro, chopped
-> 1/4 t black pepper
+* 1 28 oz can whole tomatoes
+* 2 jalapeno peppers, seeded and chopped
+* 1/2 C onion, chopped
+* 2 cloves gartic, minced
+* 2 T fresh lime juice 
+* 1/4 C cilantro, chopped
+* 1/4 t black pepper
 
 > In a medium saucepan, bring all ingredients to a boil and then simmer for 15 minutes.
 > This recipe can be multiplied and bottled according to USDA directions. 
@@ -353,7 +354,7 @@ a: Michelle Baugh
 > Mix all ingredients and pour over steaks, making sure they are coated completely. Allow to stand at least 2 hours. Longer is better.
 
 
-# ORIENTAL MARINADE FOR CHICKEN OR PORK ++
+# ORIENTAL MARINADE FOR CHICKEN OR PORK++
 
 * 1/2 C soy sauce
 * 1/4 C Hoi Sin sauce
@@ -451,7 +452,7 @@ a: Vemetta Earl
 > Mix dry ingredients first. Then add everything but the Miracle Whip. Beat until smooth , then Blend in the Miracle Whip.
 
 
-#HOMEMADE MAYONNAISE+
+# HOMEMADE MAYONNAISE+
 
 * 2 egg yolks or 1 whole egg
 * 2 T lemon juice or vinegar, divided
@@ -736,7 +737,7 @@ a: Ardella Baugh
 > Combine vegetables and sour cream, mixing well. Stir in vinegar and lemon juice. Crumble cheese and stir into dressing. Mix well. Add salt and pepper. Roquefort cheese makes the better dressing.
 
 
-# BREADS ROLLS AND GRIDDLE CAKES
+BREADS ROLLS AND GRIDDLE CAKES
 
 
 # MY USUAL BREAD+
@@ -2419,7 +2420,7 @@ a: Phyllis Baugh
 > this) turn the edge on the far side back a little. Take hold of the bottom part thus turned up and raise it to see if it will hold together. If it does turn the batch over. Stretch it in all directions. The thinner the brittle, the better it eats. Break into pieces when cold. Store in air—tight container to keep it from getting sticky.
 
 
-# POPCORN CRISP+:
+# POPCORN CRISP+
 a: Luetta Baugh
 
 * 1 C white sugar 
@@ -2447,7 +2448,7 @@ a: Luetta Baugh
 
 
 # CARAMEL POPCORN BALLS
-a: CherrIll Nielsen
+a: Cherrill Nielsen
 
 * 2 C brown sugar 
 * 1/4 lb butter or margarine
@@ -3467,7 +3468,7 @@ a: Cherrill Nielsen
 > For best results, put 1 T lemon juice or vinegar into a measuring cup, then fill to 1 cup measurement with undiluted evaporated milk. Stir and let stand about 15 minutes, then stir again and use as directed.
 
 
-# CHOCOLATE ICING:
+# CHOCOLATE ICING
 
 > Melt 2/3 T (1/3 stick) butter, (no substitute) in small saucepan and continue cooking over medium heat until bubbling stops and butter is light brown. Blend with 1 square un- sweetened chooolate, melted. Combine with powdered sugar and enough hot water too spreading consistency. Makes and ices 85 cookies.
 
@@ -9118,7 +9119,7 @@ a: Alice Hillyard
 > Peel and cut onions in 1/8 inch slices. Cook slowly in 1 C water until tender, but not mushy. Drain off liquid and save. Place onions in shallow baking dish. Slowly cook the butter, flour and seasonings. Add 1 C onion liquid, adding water to make that amount if necessary. Stir constantly as sauce thickens, stir in egg yolks mixed with cream. When thick, pour over onions. Sprinkle with buttered crumbs, shredded blanched almonds and or Parmesan cheese. Place under broiler to brown lightly. Heat more if needed to serve hot. Serves 4. May be made in the morning and reheated later.
 
 
-# CREAMED ONIONS SUPREME+
+# CREAMED ONIONS
 
 * 2 C small onions, peeled and trimmed. (Sliced, larger onions are also very good).
 * 2 T flour 
@@ -9194,7 +9195,7 @@ a: Ida Harris
 > Cook beef, garlic and onion and add to beans when about done. Add other ingredients and cook until done. Chili has best flavor if made the day before it is to be used.
 
 
-# $50 FREE CHILI (DESERET NEflSj+
+# $50 PRIZE CHILI (DESERET NEWS)+
 
 * 3 C chili beans 
 * pinch of bay leaf
@@ -9243,7 +9244,7 @@ a: Mildred Child
 > Mix catsup, mustard and sugar with beans. Cut onions in quite large pieces and put into middle of beans. Place two strips bacon over beans and bake 20 minutes at 350 degrees, then mix bacon in the beans. Cover and bake 4 hours at 250 degrees. A bean pot is best, but any heavy pot will do.
 
 
-# NEW EMGLAND BAKED BEANS+
+# NEW ENGLAND BAKED BEANS+
 
 * 1 quart dry, white beans 
 * 1/4 t baking soda
