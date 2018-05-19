@@ -155,7 +155,7 @@ a: Emma Jean Maughan
 * 1 bunch green onions, chopped
 * 1 4 oz pkg blue cheese
 * 1 small can olives, drained and chopped
-1/4 Ib butter
+* 1/4 Ib butter
 
 > Let cheese and butter stand until reaching room temperature Mix all ingredients and blend using hands if necessary. Form into a ball or long log. Then roll in chopped pecans. Chili and serve.
 
@@ -3351,15 +3351,15 @@ a: Mrs. Mary Windley
 
 # CHOCOLATE PINWHEELS
 
-1 1/2 C sifted flour 
-1/8 t salt
-1/2 C butter 
-3 T milk
-1/2 t baking powder 
-3/4 C sugar
-1 egg yolk beaten 
-1 square melted chocolate
-1 t vanilla
+* 1 1/2 C sifted flour 
+* 1/8 t salt
+* 1/2 C butter 
+* 3 T milk
+* 1/2 t baking powder 
+* 3/4 C sugar
+* 1 egg yolk beaten 
+* 1 square melted chocolate
+* 1 t vanilla
 
 > Mix egg yolk with creamed butter and sugar. Add sifted dry ingredients. Mix well and divide into two parts. To one add the chocolate. Chill. Roll each half into rectangular sheet 1/8-inch thick. Place chocolate sheet on top. Roll as for jelly roll. Chill thoroughly.
 > Cut into 1/8-inch slices. Bake on ungreased sheet at 400 degrees 5 minutes. Makes 3 1/2 dozen.
@@ -7128,7 +7128,7 @@ a: Richard Baugh
 
 > Use the same vinegar solution as for cucumbers and onions, to dilute fresh grated horseradish. You may want to use a little less sugar. Keep tightly covered in refrigerator.
 
-HORSERADISH SAUCE+
+# HORSERADISH SAUCE+
 
 * 1/2 C heavy cream 
 * 1/4 C horseradish drained
@@ -7181,7 +7181,7 @@ a: Fred’s favorite
 > Drain oysters thoroughly and blot between paper towels. Beat eggs, stir in milk and add to flour and seasonings. Beat until smooth. Dip oysters in batter and drop in deep fat heated to 365 degrees. Fry 3 to 5 minutes to desired brownness. Drain on absorbent paper. Serve with tartar or chili sauce. This batter is very good for any fish deep fried, or pan fried. Serves 5.
 
 
-IMPOSSIBLE SEAFOOD PIE++
+# IMPOSSIBLE SEAFOOD PIE++
 
 * 6 oz crabmeat or shrimp 
 * 4 oz sharp cheese, shredded
@@ -7588,7 +7588,7 @@ PIES AND DOUGHNUTS
 
 
 # NEVER FAIL PIE CRUST
-A: Ida Harris
+a: Ida Harris
 
 * 2 C sifted flour 
 * 1 t salt
@@ -7720,7 +7720,7 @@ a: Cherrill Nielsen
 > Pour into pastry lined pie pan. Bake at 450 degrees for 10 minutes, then reduce heat to 325 degrees and bake 30 minutes more or until set in center.
 
 
-PUMPKIN CHIFFON PIE+
+# PUMPKIN CHIFFON PIE+
 
 * Soak 2 envelopes geiatin in 1/4 C water
 * 5 egg yolks, beaten 
@@ -7877,7 +7877,7 @@ a: Lucy Ellis
 > Top with whipped cream.
 
 
-LEMON PIE +
+# LEMON PIE +
 
 * 1/2 C sugar 
 * 4 to 5 T cornstarch
@@ -8341,7 +8341,7 @@ a: Lucy Ellis
 > For dressing, mix mustard, salt and sugar. Beat eggs with melted butter, and hot vinegar. Cook over boiling water, or low heat until thick. Cool; combine with cream and mix with potatoes. Part Miracle Whip is good with the dressing.
 
 
-MACARONI SALAD+
+# MACARONI SALAD+
 
 * 1/2 lb macaroni cooked in boiling salted water, drained and cooled.
 * 1/2 C carrots, cooked 

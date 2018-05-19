@@ -18,9 +18,10 @@ def checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, 
     print(directions)
     print("Second Edition: " + repr(secondEdition))
     print("Favorite: " + repr(favorite))
-    print("Is this a good recipe?")
-    resp = input()
-    if resp == 'y' or resp == 'Y':
+    # print("Is this a good recipe?")
+    # resp = input()
+    # if resp == 'y' or resp == 'Y':
+    if len(ingredients) > 0 and len(directions) > 0:
         sectionTitle = sectionTitle.translate(sectionTitle.maketrans('', '', string.punctuation))        
         newTitle = title.translate(title.maketrans('', '', string.punctuation))
         toFile = open("recipes/" + sectionTitle.replace(' ', '') + "/" + newTitle.replace(' ', ''), 'w')
@@ -33,8 +34,8 @@ def checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, 
             toFile.write("> " + d + "\n")
 
 def makeSection(sectionTitle):
-    print('Is this a new section? (y/n)')
     print('Section Title: ' + sectionTitle)
+    print('Is this a new section? (y/n)')
     resp = input()
     if resp == 'y' or resp == 'Y':
         sectionTitle = sectionTitle.translate(sectionTitle.maketrans('', '', string.punctuation))
@@ -58,8 +59,7 @@ if __name__ == "__main__":
     favorite = False
     secondEdition = False
 
-    for i in  range (0, 60):
-        currentLine = book.readline()
+    for currentLine in  book:
         if currentLine[0] == '#':
             checkRecipe(sectionTitle, title, author, ingredients, directions, favorite, secondEdition)
             title = ""
@@ -71,8 +71,10 @@ if __name__ == "__main__":
             title += capString(currentLine.strip()[2:])
             if title[-2:] == '+':
                 secondEdition = True
+                title = title[:-2]
             elif title[-1:] == '+':
                 favorite = True
+                title = title[:-1]
         elif currentLine[0] == 'a' and currentLine[1] == ':':
             author += currentLine.strip()[3:]
         elif currentLine[0] == '*':
